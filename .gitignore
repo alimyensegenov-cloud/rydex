@@ -4,6 +4,13 @@
 *.pyc
 *.swp
 .DS_Store
+
+# Python / environment
+.env
+__pycache__/
+*.pyo
+venv/
+.venv/
 .atom/
 .build/
 .buildlog/
